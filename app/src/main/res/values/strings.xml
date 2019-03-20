@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StationsFinder</string>
+    <string name="btn_create">Create</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="longtitue">longitutite</string>
+    <string name="lattitute">latitute</string>
+    <string name="township">Township</string>
+    <array name="township">
+        <item>Hlaing</item>
+        <item>Insein</item>
+    </array>
+</resources>
